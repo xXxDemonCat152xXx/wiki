@@ -15,7 +15,7 @@ contributors: [dragrame, notix]
 ---
 
 ### Qu'est-ce que le serveur [Discord Testers](https://discord.gg/discord-testers) et ses membres ?
-Le serveur Discord Testers est officiel, les employés de l'entreprise le dirigent. Il sert à réunir toute personne voulant aider à chercher des bugs, failles sur les différents systèmes pour aider le réseau. Ces utilisateurs sont souvent appelés par leur nom de tier (exemple: Bug Hunter). Ils peuvent également faire l'office de test sur de futures nouveautés, qui doivent être testées avant d'être déployées au grand public.
+Le serveur Discord Testers est officiel, les employés de l'entreprise le dirigent. Ce serveur sert à réunir toute personne voulant aider à chercher des bugs, failles sur les différents systèmes pour aider le réseau. Ces utilisateurs sont souvent appelés par leur nom de tier (exemple: Bug Hunter). Ils peuvent également faire l'office de test sur de futures nouveautés, qui doivent être testées avant d'être déployées au grand public.
 
 ### Quels sont les différents tiers ?
 Les tiers permettent d'obtenir des avantages divers.
